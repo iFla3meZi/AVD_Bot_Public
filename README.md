@@ -49,5 +49,5 @@ To download a file, send a YouTube video URL to the bot. It will then offer you 
 
 ### Contact me
 ```python
-Telegram: @kkkavun
+[Telegram](https://t.me/kkkavun)
 ```
