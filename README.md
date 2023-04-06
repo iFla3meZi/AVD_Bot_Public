@@ -47,9 +47,7 @@ You can control the bot using the following commands:
 ```
 To download a file, send a YouTube video URL to the bot. It will then offer you the option to download the file in either audio or video format. Select your preferred format, and the bot will process your request and send you the file.
 
-<pre style="background-color: #ff000; padding: 10px; border-radius: 5px;">
-<code>
-Contact me:
+Contact me
+```python
 Telegram: @kkkavun
-</code>
-</pre>
+```
