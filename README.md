@@ -11,11 +11,11 @@ python --version
 ```
 ## Installation
 1. Clone the repository to your computer:
-```python
+```
 git clone https://github.com/iFla3meZi/AVD_Bot_Public.git
 ```
 2. Proceed to the bot directory:
-```python
+```
 cd AVD_Bot_Public
 ```
 3. Install the required dependencies:
