@@ -46,3 +46,10 @@ You can control the bot using the following commands:
 /start: Starts the bot and displays a welcome message.
 ```
 To download a file, send a YouTube video URL to the bot. It will then offer you the option to download the file in either audio or video format. Select your preferred format, and the bot will process your request and send you the file.
+
+<pre style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
+<code>
+Contact me:
+Telegram: @kkkavun
+</code>
+</pre>
